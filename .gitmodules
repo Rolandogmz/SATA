@@ -1,0 +1,3 @@
+[submodule "SequenceEditor"]
+	path = SequenceEditor
+	url = https://github.com/Rolandogmz/SequenceEditor.git
